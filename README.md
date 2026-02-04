@@ -21,5 +21,8 @@ Training train_PR.py needs CF and SCC prediction scores.
 After getting the PR.pth, use infer_PR.py to infer the final PR scores.
 
 ### Sample
-![data_sample](data_sample.ipg)
+25 samples of ICQA-2K dataset. Each image has tri-dimensional scores.
+![data_sample](data_sample.jpg)
 
+25 samples of the results of ICQA-Net.
+![infer_sample](infer_sample.jpg)
